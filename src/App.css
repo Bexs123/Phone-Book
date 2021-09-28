@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+
+body {
+  background: seagreen;
+  font-family: 'Rubik', sans-serif;
+  font-size: 30px;
+  align-items: center;
+  margin-top: 2%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 22px;
+  text-align: left;
+  margin-top: 25px;
+  padding-left: 19%;
+}
